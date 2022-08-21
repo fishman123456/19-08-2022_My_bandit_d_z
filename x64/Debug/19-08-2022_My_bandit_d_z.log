@@ -1,0 +1,4 @@
+﻿  19-08-2022_My_bandit_d_z.cpp
+C:\Users\Fishman_1\Documents\GitHub\19-08-2022_My_bandit_d_z\19-08-2022_My_bandit_d_z.cpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Fishman_1\Documents\GitHub\19-08-2022_My_bandit_d_z\19-08-2022_My_bandit_d_z.cpp(55,26): warning C4267: +=: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+  19-08-2022_My_bandit_d_z.vcxproj -> C:\Users\Fishman_1\Documents\GitHub\19-08-2022_My_bandit_d_z\x64\Debug\19-08-2022_My_bandit_d_z.exe
